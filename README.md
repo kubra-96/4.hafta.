@@ -1,1 +1,2 @@
-# 4.hafta.
+# 4.hafta. 
+resim galerisi
